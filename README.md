@@ -1,7 +1,7 @@
 # Helmholtz-Glomeruli
 <h2>A Helmholtzian Deep Learning Approach to Glomeruli Segmentation using Energy-based Models for Uncertainty Estimation</h2>
 
-<b>Author:</b> <a href="https://profiles.stanford.edu/omar-abul-hassan" target="_blank">Omar Abul-Hassan</a>
+<b>Author:</b> Omar Abul-Hassan
 
 <b>Preprint:</b> <a href="https://github.com/pythonomar22/Helmholtz-Glomeruli/blob/main/Paper.pdf" target="_blank">Paper.pdf</a>
 
@@ -28,4 +28,4 @@ nephropathologists with a drastically expedited
 process of extracting glomerular features from
 large histopathological images
 
-Questions? Reach out to me, <a href="omarah@stanford.edu" target="_blank">Omar Abul-Hassan</a>.
+Questions? Reach out to me, <a href="https://profiles.stanford.edu/omar-abul-hassan" target="_blank">Omar Abul-Hassan</a>.
