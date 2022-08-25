@@ -1,5 +1,5 @@
 # Helmholtz-Glomeruli
-<h2>A Helmholtzian Deep Learning Approachto Glomeruli Segmentation using Energy-based Models for Uncertainty Estimation</h2>
+<h2>A Helmholtzian Deep Learning Approach to Glomeruli Segmentation using Energy-based Models for Uncertainty Estimation</h2>
 
 <b>Author:</b> <a href="https://profiles.stanford.edu/omar-abul-hassan" target="_blank">Omar Abul-Hassan</a>
 
