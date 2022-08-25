@@ -3,7 +3,7 @@
 
 <b>Author:</b> <a href="https://profiles.stanford.edu/omar-abul-hassan" target="_blank">Omar Abul-Hassan</a>
 
-<b>Preprint:</b> Paper.pdf
+<b>Preprint:</b> <a href="https://github.com/pythonomar22/Helmholtz-Glomeruli/blob/main/Paper.pdf" target="_blank">Paper.pdf</a>
 
 <b>Abstract:</b>\
 Histologic analyses of glomeruli in renal tissues
