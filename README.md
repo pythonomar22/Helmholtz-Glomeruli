@@ -32,4 +32,4 @@ nephropathologists with a drastically expedited
 process of extracting glomerular features from
 large histopathological images
 
-Questions? Reach out to me, <a href="www.linkedin.com/in/omarah22" target="_blank">Omar Abul-Hassan</a>.
+Questions? Reach out to me, <a href="https://linkedin.com/in/omarah22" target="_blank">Omar Abul-Hassan</a>.
